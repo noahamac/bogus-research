@@ -2,7 +2,7 @@ alembic==1.3.1
 aniso8601==6.0.0
 astroid==2.3.3
 attrs==19.3.0
-Babel==2.7.0
+Babel==2.9.1
 -e git+git@github.com:thomasbanghart/brick-layer.git@44c281d12f907befba89e4495e98bf95abf7c0fe#egg=brick_layer
 cattrs==1.0.0
 certifi==2019.11.28
