@@ -22,7 +22,7 @@ Jinja2==2.10.1
 lazy-object-proxy==1.4.3
 lkml==0.2.2
 looker-sdk==0.1.3b8
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 psycopg2==2.8.4
