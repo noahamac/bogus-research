@@ -5,7 +5,7 @@ attrs==19.3.0
 Babel==2.7.0
 -e git+git@github.com:thomasbanghart/brick-layer.git@44c281d12f907befba89e4495e98bf95abf7c0fe#egg=brick_layer
 cattrs==1.0.0
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 Flask==1.0.3
